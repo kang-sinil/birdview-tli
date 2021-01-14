@@ -1,6 +1,6 @@
 # Site settings
-title:          Tale
-description:    "Minimal Jekyll theme for storytellers"
+title:          TIL 공간
+description:    "새롭게 알게된 것들을 정리해보자.."
 baseurl:        "/til"
 url:            "https://kang-sinil.github.io"
 
