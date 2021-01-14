@@ -9,9 +9,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         Kang Sinil
+  url:          https://kang-sinil.github.io
+  email:        si.kang@birdview.kr
 
 # Build settings
 markdown:       kramdown

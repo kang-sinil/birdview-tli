@@ -61,6 +61,15 @@ img {
   max-width: 100%;
 }
 
+img.alignleft {
+  float: left;
+  margin-right: 30px !important;
+}
+img.alignright {
+  float: right;
+  margin-left: 30px !important;
+}
+
 td {
   vertical-align: top;
 }
