@@ -70,6 +70,12 @@ img.alignright {
   margin-left: 30px !important;
 }
 
-td {
+table {
+  width: 100%;
+  border: 1px solid #444444;
+  border-collapse: collapse;
+}
+th, td {
   vertical-align: top;
+  border: 1px solid #444444;
 }
